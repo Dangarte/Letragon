@@ -1,5 +1,5 @@
 {
     "aviable-css": [
-        {"name": "octa-1", "version": "0.0.0.1", "desc": "description of octa-1.css", "demo": "demo of octa-1.css"}
+        {"name": "octa-1", "version": "0.0.0.1", "creator": "Dangart", "desc": "Стиль основанный на восьмиугольниках", "demo": ".style-card[data-id='octa-1']{transition:.2s;position:relative;border:none;background:linear-gradient(180deg,var(--demo--bg) 10px, transparent);clip-path:polygon(10px 0, calc(100% - 10px) 0, 100% 10px, 100% calc(100% - 10px), calc(100% - 10px) 100%, 10px 100%, 0 calc(100% - 10px), 0 10px, 10px 0)}.style-card[data-id='octa-1']::before{content:'';position:absolute;left:0;top:0;width:100%;height:100%;background:var(--demo--border-color-dark);clip-path:polygon(10px 0,calc(100% - 10px) 0,100% 10px,100% calc(100% - 10px),calc(100% - 10px) 100%,10px 100%,0 calc(100% - 10px),0 10px,10px 0,12px 2px,2px 12px,2px calc(100% - 12px),10px 100%,calc(100% - 10px) 100%,calc(100% - 2px) calc(100% - 12px),calc(100% - 2px) 12px,calc(100% - 12px) 2px,12px 2px);;z-index:1;transition:.2s}.extension-style-info{border-top:2px solid var(--demo--border-color-dark)}.extension-style-demo{text-align:center}.style-card[data-id='octa-1']:hover{--demo--bg:var(--demo--bg-light);--demo--border-color-dark:var(--demo--border-color)}"}
     ]
 }
