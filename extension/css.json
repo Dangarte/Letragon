@@ -12,6 +12,19 @@
                 {"name": "color-L", "desc": "Яркость цвета", "type": "per", "min": "10", "max": "80", "default": "16"},
                 {"name": "bg-A", "desc": "Прозрачность фона", "type": "per", "default": "20"},
                 {"name": "attention-r", "desc": "Отличие цвета выделения", "type": "deg", "default": "160"}
+            ],
+            "other-values": [
+                {"name": "border-color", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + 20%)/100%)"},
+                {"name": "border-color-dark", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + 6%)/100%)"},
+                {"name": "bg-dark", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) - var(--dark))/var(--bg-A))"},
+                {"name": "bg", "value": "hsl(var(--color-H) var(--color-S) var(--color-L)/var(--bg-A))"},
+                {"name": "bg-light", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + var(--light))/var(--bg-A))"},
+                {"name": "attention", "value": "hsl(calc(var(--color-H) + var(--attention-r)) 90% calc(var(--color-L) + var(--light))/var(--attention-A))"},
+                {"name": "bg-attention", "value": "hsl(calc(var(--color-H) + var(--attention-r)) 90% calc(var(--color-L) + var(--light))/var(--bg-A))"},
+                {"name": "attention-A", "value": "60%"},
+                {"name": "light", "value": "25%"},
+                {"name": "dark", "value": "15%"},
+                {"name": "bezier_SFS", "value": "cubic-bezier(0.075, 0.82, 0.165, 1)"}
             ]
         }
     ]
