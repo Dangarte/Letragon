@@ -1,3 +1,7 @@
 {
-	"last-version": "1.2.6.5"
+	"last-version": "1.2.6.5",
+	"last-css-version":
+	{
+		"octa-1": "0.0.0.1"
+	}
 }
