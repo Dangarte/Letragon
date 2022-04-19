@@ -35,9 +35,9 @@
             "version": "1.1.1.1",
             "creator": "Dangart",
             "desc": "Стиль с минимальными изменениями и круглыми рамками",
-            "demo": ".style-card[data-id='octa-1']>*{border-radius:var(--demo-SimpleRound--rarius-size)}",
+            "demo": ".style-card[data-id='octa-1']>*{border-radius:var(--demo-SimpleRound--radius-size)}",
             "settings": [
-                {"name": "rarius-size", "desc": "Размер углов", "type": "px", "min": "4", "max": "30", "default": "10"},
+                {"name": "radius-size", "desc": "Размер углов", "type": "px", "min": "4", "max": "30", "default": "10"},
                 {"name": "bg-img", "desc": "Ссылка на своё фоновое изображение, оставить поле пустым если не нужно", "type": "link", "default": ""}
             ],
             "other-values": [
