@@ -29,6 +29,20 @@
                 {"name": "dark", "value": "15%"},
                 {"name": "bezier_SFS", "value": "cubic-bezier(0.075, 0.82, 0.165, 1)"}
             ]
+        },
+        {
+            "name": "SimpleRound",
+            "version": "1.1.1.1",
+            "creator": "Dangart",
+            "desc": "Стиль с минимальными изменениями и круглыми рамками",
+            "demo": ".style-card[data-id='octa-1']>*{border-radius:var(--demo-SimpleRound--rarius-size)}",
+            "settings": [
+                {"name": "rarius-size", "desc": "Размер углов", "type": "px", "min": "4", "max": "30", "default": "10"},
+                {"name": "bg-img", "desc": "Ссылка на своё фоновое изображение, оставить поле пустым если не нужно", "type": "link", "default": ""}
+            ],
+            "other-values": [
+                {"name": "bezier_SFS", "value": "cubic-bezier(0.075, 0.82, 0.165, 1)"}
+            ]
         }
     ]
 }
