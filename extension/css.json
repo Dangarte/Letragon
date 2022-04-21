@@ -17,14 +17,14 @@
                 {"name": "bg-img", "desc": "Ссылка на своё фоновое изображение, оставить поле пустым если не нужно", "type": "link", "default": ""}
             ],
             "other-values": [
-                {"name": "border-color", "desc":"Рамки", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + 20%)/100%)", "type": "color"},
-                {"name": "border-color-dark", "desc":"Тёмные рамки", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + 6%)/100%)", "type": "color"},
+                {"name": "border-color", "desc":"Рамки", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + 20%))", "type": "color"},
+                {"name": "border-color-dark", "desc":"Тёмные рамки", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + 6%))", "type": "color"},
                 {"name": "bg-dark", "desc":"Тёмный фон", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) - var(--dark))/var(--bg-A))", "type": "color"},
                 {"name": "bg", "desc":"Фон", "value": "hsl(var(--color-H) var(--color-S) var(--color-L)/var(--bg-A))", "type": "color"},
                 {"name": "bg-light", "desc":"Светлый фон", "value": "hsl(var(--color-H) var(--color-S) calc(var(--color-L) + var(--light))/var(--bg-A))", "type": "color"},
                 {"name": "attention", "desc":"Выделение", "value": "hsl(calc(var(--color-H) + var(--attention-r)) 90% calc(var(--color-L) + var(--light))/var(--attention-A))", "type": "color"},
                 {"name": "bg-attention", "desc":"Фон выделения", "value": "hsl(calc(var(--color-H) + var(--attention-r)) 90% calc(var(--color-L) + var(--light))/var(--bg-A))", "type": "color"},
-                {"name": "attention-A", "value": "60%"},
+                {"name": "attention-A", "value": "100%"},
                 {"name": "light", "value": "25%"},
                 {"name": "dark", "value": "15%"},
                 {"name": "bezier_SFS", "value": "cubic-bezier(0.075, 0.82, 0.165, 1)"}
