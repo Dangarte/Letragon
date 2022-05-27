@@ -1,11 +1,11 @@
-`Что делает расширение?` v.1.2.6.19
+`Что делает расширение?` _v.1.2.6.19_
 - Добавляет сортировку на аукционе по цене, сортировку контрактов в лавочке Виз по выгодности (по репутации и монетам) и сортировку гильдий по уровню и количеству участников.
 - Добавляет рабочие таймеры в лавочку Виз. (Лавочка Виз)
 - Добавляет кнопку для обновления или сбора всех крафтов на сайте. (Страница Крафтов)
 - Тёмная тема для форумного редактора. (Форум)
 - Автоматическое приведение таблиц при вставке в форумный редактор к нормальному виду (Убирает стилизацию текста и рамок). (Форум)
 - Пометки наличия стилей на ссылках в профиль игрока.
-- Рейтинг по серверной репутации. (Активность - РЕпутация)
+- Рейтинг по серверной репутации. (Активность - Репутация)
 - Возможность быстро настроить и установить один из моих (пока только моих) стилей. (Настройки - Настройки расширения)
 - Поиск настроений по тексту в них.
 - График изменения баланса. (Кабинет - Баланс)
@@ -19,10 +19,13 @@
 
 `Как установить расширение?`
 
-Скачай файл < _Letragon+\_vВЕРСИЯ.crx_ > из папки [ _extension_ ] и установи, правда... это работает только в опере, потому что edge и chrome не разрешают устанавливать расширения из неизвестных источников)
+1. Скачай файл [Letragon+_v1.2.6.18.crx](https://github.com/Dangarte/Letragon/blob/master/extension/Letragon%2B_v1.2.6.18.crx).
+2. Установи расширение (просто перетащи файл .crx который ты скачал на страницу с установленными расширениями).
+
+(Правда... это работает только в опере, потому что edge и chrome не разрешают устанавливать расширения из неизвестных источников)
 
 `Что за файлы тут хранятся?`
-  - Файлы для стилей: Папки [ _backgrounds_ ] и [ _fonts_ ]; Файлы < _Malum.gif_ >, < _Malum.png_ > и < _gear.gif_ >.
-  - Файлы для расширения: Папка [ _extension_ ].
-  - Файлы которые я могу удалить с форума: Папка [ _backup_ ].
-  - То что надо бы удалить: < _Demigod.jpg_ >, < _LlenCat.jpg_ > и < _TerraBat69.gif_ >.
+  - _Ресурсы для стилей_: Папки [backgrounds](https://github.com/Dangarte/Letragon/tree/master/backgrounds) и [fonts](https://github.com/Dangarte/Letragon/tree/master/fonts); Файлы [Malum.gif](https://github.com/Dangarte/Letragon/blob/master/Malum.gif), [Malum.png](https://github.com/Dangarte/Letragon/blob/master/Malum.png) и [gear.gif](https://github.com/Dangarte/Letragon/blob/master/gear.gif).
+  - _Файлы для расширения_: Папка [extension](https://github.com/Dangarte/Letragon/tree/master/extension).
+  - _Файлы которые я могу удалить с форума_: Папка [backup](https://github.com/Dangarte/Letragon/tree/master/backup).
+  - _То что надо бы удалить_: [Demigod.jpg](https://github.com/Dangarte/Letragon/blob/master/Demigod.jpg), [LlenCat.jpg](https://github.com/Dangarte/Letragon/blob/master/LlenCat.jpg) и [TerraBat69.gif](https://github.com/Dangarte/Letragon/blob/master/TerraBat69.gif).
