@@ -27,7 +27,19 @@
 (Правда... это работает только в опере, потому что edge и chrome не разрешают устанавливать расширения из неизвестных источников)
 
 ## Что за файлы тут хранятся?
-  - _Ресурсы для стилей_: Папки [backgrounds](https://github.com/Dangarte/Letragon/tree/master/backgrounds) и [fonts](https://github.com/Dangarte/Letragon/tree/master/fonts); Файлы [Malum.gif](https://github.com/Dangarte/Letragon/blob/master/Malum.gif), [Malum.png](https://github.com/Dangarte/Letragon/blob/master/Malum.png) и [gear.gif](https://github.com/Dangarte/Letragon/blob/master/gear.gif).
-  - _Файлы для расширения_: Папка [extension](https://github.com/Dangarte/Letragon/tree/master/extension).
-  - _Файлы которые я могу удалить с форума_: Папка [backup](https://github.com/Dangarte/Letragon/tree/master/backup).
+  - _Ресурсы для стилей_: 
+      - _Фоновые изображения_: [backgrounds](https://github.com/Dangarte/Letragon/tree/master/backgrounds).
+      - _Шрифты_: [fonts](https://github.com/Dangarte/Letragon/tree/master/fonts).
+      - _Знак гильдии_: [Malum.gif](https://github.com/Dangarte/Letragon/blob/master/Malum.gif) и [Malum.png](https://github.com/Dangarte/Letragon/blob/master/Malum.png).
+      - _Шестерни для заданий_: [gear.gif](https://github.com/Dangarte/Letragon/blob/master/gear.gif).
+  - _Файлы для расширения_: [extension](https://github.com/Dangarte/Letragon/tree/master/extension).
+      - _База данных_: [Данные](https://github.com/Dangarte/Letragon/tree/master/extension/DB) для работы расширения (информация по достижениям, пользователям и настроениям).
+      - _Стили_: [Файлы стилей](https://github.com/Dangarte/Letragon/tree/master/extension/css).
+  - _Ресурспаки_: х32, которые рньше можно было скачать с сайта летрагона.
+      - [Heavy Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-HeavyTech.zip).
+      - [Magic](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-Magic.zip).
+      - [Misuse Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-MisuseTech.zip).
+      - [Never Change](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-NeverChange.zip).
+      - [Power Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-PowerTech.zip).
+  - _Файлы которые я могу удалить с форума_: [backup](https://github.com/Dangarte/Letragon/tree/master/backup).
   - _То что надо бы удалить_: [Demigod.jpg](https://github.com/Dangarte/Letragon/blob/master/Demigod.jpg), [LlenCat.jpg](https://github.com/Dangarte/Letragon/blob/master/LlenCat.jpg) и [TerraBat69.gif](https://github.com/Dangarte/Letragon/blob/master/TerraBat69.gif).
