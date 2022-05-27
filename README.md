@@ -1,4 +1,8 @@
+<img src = "https://dangarte.github.io/Letragon/Malum.gif" width = "100" height = "100" alt = "Знак гильдии Malum"/>
+
 # Letragon+
+
+__Letragon+__ это расширение для сайта Letragon. Созданное для улучшения сайта и добавления нового функционала (возможно бесполезного или излишнего, но иногда может пригодиться).
 
 - [Что делает расширение?](https://github.com/Dangarte/Letragon#что-делает-расширение-v12619)
 - [Как установить расширение?](https://github.com/Dangarte/Letragon#как-установить-расширение)
@@ -25,7 +29,7 @@
 
 ## Как установить расширение?
 
-1. Скачай файл [Letragon+_v1.2.6.18.crx](https://github.com/Dangarte/Letragon/blob/master/extension/Letragon%2B_v1.2.6.18.crx).
+1. Скачай файл [Letragon+_v1.2.6.19.crx](https://dangarte.github.io/Letragon/extension/Letragon+_v1.2.6.19.crx).
 2. Установи расширение (просто перетащи файл .crx который ты скачал на страницу с установленными расширениями).
 
 (Правда... это работает только в опере, потому что edge и chrome не разрешают устанавливать расширения из неизвестных источников)
