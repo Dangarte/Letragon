@@ -25,7 +25,7 @@
 
 ## Как установить расширение?
 
-1. Скачай файл [Letragon+_v1.2.6.19.crx](https://github.com/Dangarte/Letragon/blob/master/extension/Letragon%2B_v1.2.6.19.crx).
+1. Скачай файл [Letragon+_v1.2.6.19.crx](https://github.com/Dangarte/Letragon/extension/Letragon+_v1.2.6.19.crx).
 2. Установи расширение (просто перетащи файл .crx который ты скачал на страницу с установленными расширениями).
 
 (Правда... это работает только в опере, потому что edge и chrome не разрешают устанавливать расширения из неизвестных источников)
