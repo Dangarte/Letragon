@@ -1,4 +1,8 @@
+<img src = "https://dangarte.github.io/Letragon/Malum.gif" width = "100" height = "100" alt = "Знак гильдии Malum"/>
+
 # Letragon+
+
+__Letragon+__ это расширение для сайта Letragon. Созданное для улучшения сайта и добавления нового функционала (возможно бесполезного или излишнего, но иногда может пригодиться).
 
 - [Что делает расширение?](https://github.com/Dangarte/Letragon#что-делает-расширение-v12619)
 - [Как установить расширение?](https://github.com/Dangarte/Letragon#как-установить-расширение)
