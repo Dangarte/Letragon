@@ -29,7 +29,7 @@ __Letragon+__ это расширение для сайта Letragon. Созда
 
 ## Как установить расширение?
 
-1. Скачай файл [Letragon+_v1.2.6.19.crx](https://dangarte.github.io/Letragon/extension/Letragon+_v1.2.6.19.crx).
+1. Скачай файл [Letragon+_v1.2.6.19.crx](https://github.com/Dangarte/Letragon/blob/master/extension/Letragon+_v1.2.6.19.crx).
 2. Установи расширение (просто перетащи файл .crx который ты скачал на страницу с установленными расширениями).
 
 > __Мне пишет что источник расширения не известен и я не могу его включить__
