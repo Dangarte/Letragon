@@ -4,35 +4,49 @@
 
 __Letragon+__ это расширение для сайта Letragon. Созданное для улучшения сайта и добавления нового функционала (возможно бесполезного или излишнего, но иногда может пригодиться).
 
-- [Что делает расширение?](https://github.com/Dangarte/Letragon#что-делает-расширение-v13)
+- [Что делает расширение?](https://github.com/Dangarte/Letragon#что-делает-расширение-v131)
 - [Как установить расширение?](https://github.com/Dangarte/Letragon#как-установить-расширение)
 - [Что за файлы тут хранятся?](https://github.com/Dangarte/Letragon#что-за-файлы-тут-хранятся)
 ----
-## Что делает расширение? **v.1.3**
-- Добавляет сортировку на аукционе по цене, сортировку контрактов в лавочке Виз по выгодности (по репутации и монетам) и сортировку гильдий по уровню и количеству участников.
-- Добавляет рабочие таймеры в лавочку Виз. (Лавочка Виз)
-- Добавляет кнопку для обновления или сбора всех крафтов на сайте. (Страница Крафтов)
-- Тёмная тема для форумного редактора. (Форум)
-- Автоматическое приведение таблиц при вставке в форумный редактор к нормальному виду (Убирает стилизацию текста и рамок). (Форум)
-- Пометки наличия стилей на ссылках в профиль игрока.
-- Рейтинг по серверной и форумной репутации. (Активность - Репутация)
-- Возможность быстро настроить и установить один из моих (пока только моих) стилей. (Настройки - Настройки расширения)
-- Поиск настроений по тексту в них.
-- График изменения баланса. (Кабинет - Баланс)
-- Вывод всех доступных для хранения на сайте предметов в одно место. (Кабинет - Склад)
-- Добавляет в таблицу со список гильдий количество участников. (Гильдии)
-- Добавляет репутацию игрока в списке участников гильдии. (Гильдии)
-- Бесполезное (когда я это делал то не знал что можно просто нажать на ник... раньше нажимал на картинку, думал они делают одно и тоже) перетягивание ников (и картинок) на главной странице форума для упоминания. (Форум)
-- Добавляет % игроков выполнивших достижение (среди всех, и только тех у кого есть хотя бы 1 достижение), при открытии подробностей про достижение можно увидеть список выполнивших.
-- Добавляет в разделы достижений кол-во полученых и доступных кубков.
-- Увеличение эмодзи при наведении (теперь будет видно что ты собираешься отправить). (Форум)
-- Поиск по эмодзи на форуме.
-- Улучшенные уведомления.
-- ...
+## Что делает расширение? **v.1.3.1**
+- На сайте
+    - Лавочка Виз
+        - сортировку контрактов
+        - рабочие таймеры
+    - Аукцион
+        - сортировка по цене
+    - Гильдии
+        - сортировку списка гильдий по уровню или количеству участников
+        - репутацию игрока в списке участников гильдии
+        - в список гильдий количество участников
+    - Крафты
+        - кнопки для обновления или сбора всех крафтов на сайте
+    - Профиль
+        - в разделах достижений кол-во полученых и доступных кубков
+        - поиск настроений по тексту в них
+        - % игроков выполнивших достижение (среди всех, и только тех у кого есть хотя бы 1 достижение), при открытии подробностей про достижение можно увидеть список выполнивших
+    - Активность
+        - рейтинг по форумной и серверной репутации
+    - Кабинет
+        - график изменения баланса
+        - вывод всех доступных для хранения на сайте предметов в одно место
+    - Главная
+        - улучшенные уведомления
+    - Настройки
+        - возможность быстро настроить и установить один из моих (пока только моих) стилей
+    - Все страницы
+        - пометки наличия стилей на ссылках в профиль игрока
+- Форум
+    - поиск по эмодзи
+    - увеличение эмодзи при наведении
+    - более удобный способ переключения страниц в темах на форуме (Страниц в темах не много, так что все они сейчас грузятся вместе)
+    - Бесполезное перетягивание ников (и картинок) на главной странице форума для упоминания в чате
+    - тёмная тема для форумного редактора
+    - приведение таблиц при вставке в форумный редактор к нормальному виду (Убирает стилизацию текста и рамок)
 
 ## Как установить расширение?
 
-1. Скачай файл [Letragon+_v1.3.crx](https://github.com/Dangarte/Letragon/blob/master/extension/Letragon+_v1.3.crx).
+1. Скачай файл [Letragon+_v1.3.1.crx](https://github.com/Dangarte/Letragon/blob/master/extension/Letragon+_v1.3.1.crx).
 2. Установи расширение (просто перетащи файл .crx который ты скачал на страницу с установленными расширениями).
 
 > __Мне пишет что источник расширения не известен и я не могу его включить__
@@ -42,16 +56,16 @@ __Letragon+__ это расширение для сайта Letragon. Созда
 > 3. Установи распакованное расширение из папки в которую ты распаковывал zip файл.
 
 ## Что за файлы тут хранятся?
-  - _Ресурсы для стилей_: 
-      - _Фоновые изображения_: [backgrounds](https://github.com/Dangarte/Letragon/tree/master/backgrounds).
-      - _Шрифты_: [fonts](https://github.com/Dangarte/Letragon/tree/master/fonts).
-      - _Знак гильдии_: [Malum.gif](https://github.com/Dangarte/Letragon/blob/master/Malum.gif) и [Malum.png](https://github.com/Dangarte/Letragon/blob/master/Malum.png).
-  - _Файлы для расширения_: [extension](https://github.com/Dangarte/Letragon/tree/master/extension).
-  - _Ресурспаки_: х32, которые рньше можно было скачать с сайта летрагона.
-      - [Heavy Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-HeavyTech.zip).
-      - [Magic](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-Magic.zip).
-      - [Misuse Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-MisuseTech.zip).
-      - [Never Change](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-NeverChange.zip).
-      - [Power Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-PowerTech.zip).
-  - _Файлы которые я могу удалить с форума_: [backup](https://github.com/Dangarte/Letragon/tree/master/backup).
-  - _То что надо бы удалить_: [Demigod.jpg](https://github.com/Dangarte/Letragon/blob/master/Demigod.jpg), [LlenCat.jpg](https://github.com/Dangarte/Letragon/blob/master/LlenCat.jpg) и [TerraBat69.gif](https://github.com/Dangarte/Letragon/blob/master/TerraBat69.gif).
+- _Ресурсы для стилей_: 
+    - _Фоновые изображения_: [backgrounds](https://github.com/Dangarte/Letragon/tree/master/backgrounds).
+    - _Шрифты_: [fonts](https://github.com/Dangarte/Letragon/tree/master/fonts).
+    - _Знак гильдии_: [Malum.gif](https://github.com/Dangarte/Letragon/blob/master/Malum.gif) и [Malum.png](https://github.com/Dangarte/Letragon/blob/master/Malum.png).
+- _Файлы для работы расширения_: [extension](https://github.com/Dangarte/Letragon/tree/master/extension).
+- _Ресурспаки_: х32, которые рньше можно было скачать с сайта летрагона.
+    - [Heavy Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-HeavyTech.zip).
+    - [Magic](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-Magic.zip).
+    - [Misuse Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-MisuseTech.zip).
+    - [Never Change](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-NeverChange.zip).
+    - [Power Tech](https://github.com/Dangarte/Letragon/blob/master/resourcepacks/F32-PowerTech.zip).
+- _Файлы которые я могу удалить с форума_: [backup](https://github.com/Dangarte/Letragon/tree/master/backup).
+- _То что надо бы удалить_: [Demigod.jpg](https://github.com/Dangarte/Letragon/blob/master/Demigod.jpg), [LlenCat.jpg](https://github.com/Dangarte/Letragon/blob/master/LlenCat.jpg) и [TerraBat69.gif](https://github.com/Dangarte/Letragon/blob/master/TerraBat69.gif).
