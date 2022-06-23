@@ -1,1 +1,1 @@
-modules{--modules:"round,collections,counter";}
+modules{--modules:"round,collections,counter,menuNum";}#overview-section,.user-panel-balance,#personal-nav{background:none!important;}#otmal[data-action="events"] .sidebar-menu>li:last-child::after,:is(#otmal[data-action="showfull"] .nav-tabs,#otmal[data-action="crafting"] .craft-panel + .nav-tabs,#otmal[data-action="covers"] .not-border-nav,.nav-season)>*:last-child:after,.tab>div:last-child:after,.nav-tabs>*:last-child:after{box-shadow:0 0 4px var(--color,black),inset 0 0 8px #565656;}
