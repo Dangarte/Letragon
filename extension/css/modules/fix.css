@@ -1,0 +1,1 @@
+#achiewments_list>div:not([class]),#achiewments_list .tab-pane{display:grid;grid-template-columns:repeat(3,1fr);}.panel-show-achievement{width:100%;box-sizing:border-box;min-height:110px;}.guild-but{width:100px;}
